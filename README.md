@@ -29,7 +29,7 @@
 
 ### 📌 Featured Work
 
-- **Sidekick AI**: multi-agent assistant backend with SSE streaming, RAG over OpenSearch and resilient LLM fallbacks
+- **AI Personalised assistant**: multi-agent assistant backend with SSE streaming, RAG over OpenSearch and resilient LLM fallbacks
 - **Financial Document AI**: GPT-4o pipeline auto-extracting 80+ structured fields with OCR and PII masking
 - **Recruitment Automation**: event-driven platform with AI voice calling and smart scheduling
 
