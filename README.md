@@ -62,13 +62,6 @@
 | 📞 **Recruitment Automation** | Event-driven platform with AI voice calling, smart retry scheduling and email processing | Bland AI · MS Graph · PostgreSQL |
 | ✍️ **Handwritten Form AI** | Extracts structured data from handwritten banking forms with continuous retraining | YOLOv8 · PaddleOCR · OpenCV |
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kothariyashh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a14" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kothariyashh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a14" alt="Top languages" height="165"/>
-</p>
-
 ---
 
 <p align="center"><i>💬 Open to AI/ML roles and collaborations — visit <a href="https://yash-kothari.vercel.app">yash-kothari.vercel.app</a> and say hi to my portfolio bot, Kothari.AI 🤖</i></p>
